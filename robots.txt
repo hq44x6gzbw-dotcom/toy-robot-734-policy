@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://hq44x6gzbw-dotcom.github.io/toy-robot-734-policy/sitemap.xml
